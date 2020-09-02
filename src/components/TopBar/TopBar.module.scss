@@ -1,0 +1,20 @@
+.Toolbar {
+    min-height: 32px!important;
+}
+.grow {
+    flex-grow: 1,
+}
+.invertBtn {
+    margin-right:16px;
+    line-height:0;
+}
+.acct {
+    display:flex;
+    font-size:14px;
+}
+.acct > P {
+    margin-right:3px;
+}
+.acct > div {
+    padding:3px;
+}

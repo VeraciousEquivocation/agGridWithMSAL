@@ -1,0 +1,26 @@
+.leftIcon {
+    margin-right: 6px!important;
+}
+.popperZIndex {
+    z-index:100;
+}
+.btnGrpVertAlgnSync {
+    vertical-align: middle;
+}
+.topBtnRow {
+    margin-bottom: 8px;
+}
+.topBtnSpacing {
+    margin-right: 12px!important;
+}
+.topBtnSpacing:first-of-type {
+    margin-left: 12px;
+}
+.topBtnSpacing:last-of-type {
+    margin-right: 0;
+}
+.customTooltip {
+    padding: 4px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    margin-top: 3px;
+}
